@@ -43,4 +43,4 @@ var map = new L.Map('map', { layers: [
     })
 ]});
 
-map.setView([52, -1], 11);
+map.setView([53.5, -1.5], 10);
